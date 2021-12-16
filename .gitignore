@@ -3,3 +3,7 @@
 ################################################################################
 
 /IsoMetrixAppUnitTest/bin/Debug/netcoreapp3.1
+/IsoMetrixAppUnitTest/obj
+/IsoMetrixTest/.vs
+/IsoMetrixTest/bin/Debug/netcoreapp3.1
+/IsoMetrixTest/obj
